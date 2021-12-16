@@ -1,0 +1,3 @@
+﻿  main.c
+E:\demoheima\heimacode\贪吃蛇案例\main.c(48,18): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  贪吃蛇案例.vcxproj -> E:\demoheima\heimacode\贪吃蛇案例\Debug\贪吃蛇案例.exe
